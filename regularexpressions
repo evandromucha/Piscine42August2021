@@ -1,0 +1,12 @@
+Símbolo		Descrição
+‘		Aspas simples são utilizadas para delimitar o texto dentro delas como caracteres literais não interpretando nenhum caractere que estiver dentro delas como metacaractere.
+“		Aspas duplas são utilizadas para delimitar o texto dentro delas como caracteres literais exceto os sinais “$” e “\”.
+\		A contrabarra é utilizada para informar que o caractere imediatamente após deve ser interpretado como literal.
+^		O acento circunflexo é utilizado para indicar o início de uma linha.
+$		O cifrão é utilizado para indicar o final de uma linha.
+[aeiou]		Uma sequência de caracteres dentro de colchetes é interpretada como todos os caracteres são válidos para a busca.
+[a-z]		O sinal menos indica que qualquer caractere entre a letra a e a letra z são válidos.
+[^abc]		Indica que qualquer caractere menos as letras a, b, c são válidos na busca.
+/palavra/	Indica que a palavra procurada deverá estar separada por espaços na esquerda e na direita.
+[0-9]		Indica que qualquer número de zero a nove é válido para a busca.
+.		O ponto final indica qualquer caractere menos uma linha em branco.

@@ -1,0 +1,6 @@
+Credentials cache: API:0CBCD5AF-B08B-4075-A5DF-4E1651328ACD
+        Principal: emucha@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  4 15:43:52 2021  Aug  5 01:43:52 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  4 15:43:53 2021  Aug  5 01:43:52 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM

@@ -1,0 +1,10 @@
+
+int	main(int argc, char *argv[])
+
+	/*	if (argc != 16)
+			write(1, "Error", 5);
+		else
+			write(1, "Ok!", 3);
+	*/
+
+	
